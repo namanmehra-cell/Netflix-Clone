@@ -1,0 +1,19 @@
+.plan_screen_plans{
+    justify-content: space-between;
+    display: flex;
+    /* padding: 5px; */
+    opacity: 0.8;
+    font-size: 1.2rem;
+}
+
+.plan_screen_plans button{
+    margin-top: 20px;
+    border-radius: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.plan_screen_plans:hover{
+    opacity: 1.4;
+}

@@ -1,0 +1,66 @@
+.login{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-size: cover;
+    background-image: linear-gradient(to bottom, rgba(10, 1, 1, 0.52), rgba(233, 23, 58, 0.73)), url('https://tinyurl.com/cw8wnxmb') ;
+}
+
+.logo{
+    position: fixed;
+    width: 150px;
+}
+
+.sign_button{
+    position: fixed;
+    background-color: #e50914;
+    height: 35px;
+    width: 75px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    top: 10px;
+    right: 15px;
+    white-space: nowrap;
+    font-weight: 400;
+    font-size: 1rem;
+    float: right;
+}
+
+.main_body{
+  color: aliceblue;
+  position: relative;
+  z-index: 1;
+  top: 30%;
+  font-size: 1.6rem;
+ }
+
+ .h3{
+     font-size: 1.4rem;
+     font-weight: 500;
+ }
+
+ .line{
+     font-size: 1.2rem;
+     font-weight: 400;
+ }
+
+.input{
+    padding: 10px;
+    outline-width: 0;
+    width: 520px;
+    height: 30px;
+    border: none;
+}
+
+.get_button{
+    background-color: #e50914;
+    border: none;
+    font-size: 1rem;
+    padding: 16px 20px;
+    color: azure;
+    margin-left: 10px;
+    height: 50px;
+
+}

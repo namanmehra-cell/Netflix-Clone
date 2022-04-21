@@ -1,0 +1,55 @@
+.signin_page{
+margin-left: auto;
+margin-right: auto;
+padding: 40px;
+max-width: 300px;
+position: relative;
+background: rgba(0,0,0,0.85);
+
+}
+
+.signin_page form{
+    
+    flex-direction: column;
+}
+
+.signin_page input{
+    padding: 10px;
+    outline-width: 0;
+    width: 100%;
+    height: 27px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.signIn_button{
+    background-color: #e50914;
+    border: none;
+    border-radius: 3px;
+    font-size: 1rem;
+    padding: 16px 20px;
+    color: azure;
+    margin: 24px 0 12px;
+    height: 50px;
+    width: 107%;
+    cursor: pointer;
+
+}
+
+.sign_up{
+    cursor: pointer;
+    color: white
+}
+
+.sign_up:hover{
+    color: royalblue;
+}
+
+
+span{
+    font-size: 1rem;
+    font-weight: 600;
+    color: grey;
+}
+
