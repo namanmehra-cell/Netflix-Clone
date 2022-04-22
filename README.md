@@ -11,15 +11,15 @@
 -📺 Carousel of movies coming from the IMDB API
 
 <h2>Topics</h2> 
-*1. IMDB API
-*2. Using an API in React
-*3. Axios dependencie to make the requests
-*4. Transitions
-*5. Carousel effect
-*6. Navbar transition
-*7. ASYNC Javascript
-*8. Promises
-*9. React Hooks
+1. IMDB API
+2. Using an API in React
+3. Axios dependencie to make the requests
+4. Transitions
+5. Carousel effect
+6. Navbar transition
+7. ASYNC Javascript
+8. Promises
+9. React Hooks
 
 <h2>Tech Used</h2>
 *🎬 Fron-end React
